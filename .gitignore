@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.py~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large temporary files
+*.tmp
+*.log
+*.out
+
+# Excel temporary files
+~$*.xlsx
